@@ -1,4 +1,4 @@
-# Python-Tools
+# Python-Colab-Postgres
 some usefull tools for Python
 
 ## Google Colab with PostgreSQL and Python to write 1 million rows
